@@ -31,7 +31,7 @@
 					<span>$2.50</span>
 					<span>Short description of the cupcake will go here.</span>
 				</div>
-			</div>	
+			</div>
 		<?php endfor; ?>
 		</div>
 	</body>

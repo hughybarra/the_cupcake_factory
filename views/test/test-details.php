@@ -27,7 +27,7 @@
 				<img src="/img/cupcakes/7.png">
 			</div>
 			<div class="cupcake-detail-info">
-				<span class="cupcake-detail-name">Cupcake Name</span>
+				<h1>Cupcake Name</h1>
 				<span>$2.50</span>
 				<span>A full description of the cupcake will go here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ac est et elit placerat tempus condimentum eu eros. Nullam orci tellus, ultrices a libero vel, dictum pulvinar quam. Maecenas in scelerisque dolor. Nullam suscipit sem vel odio egestas dictum.</span>
 				<a href="#">Add to favorites</a>

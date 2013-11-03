@@ -9,6 +9,12 @@ body{
 	font-family: helvetica, 'helvetica neue', arial, sans-serif;
 	color: #222;
 	background: #F2E1C2;
+	font-size: 14px;
+}
+
+h1{
+	color: #D92B3A;
+	font-family: 'Pacifico';
 }
 
 header{
@@ -42,7 +48,7 @@ header{
 	margin-left: 1%;
 }
 
-.header-login, .header-logout{
+.header-login, .header-logout, .checkout-btn{
 	background: #b8faff; /* Old browsers */
 	background: -moz-linear-gradient(top, #b8faff 0%, #65c8d0 47%, #65c8d0 77%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#b8faff), color-stop(47%,#65c8d0), color-stop(77%,#65c8d0)); /* Chrome,Safari4+ */
@@ -58,6 +64,7 @@ header{
 	text-align: center;
 	line-height: 21px;
 	float: right;
+	border-radius: 2px;
 }
 
 .main{
@@ -89,10 +96,9 @@ header{
 	
 }
 
-.cupcake-name, .cupcake-detail-name{
+.cupcake-name{
 	color: #D92B3A;
 	font-family: 'Pacifico';
-	font-weight: bold;
 }
 
 .cupcake-name{
@@ -143,4 +149,10 @@ header{
 	float: left;
 	display: block;
 	width: 600px;
+}
+
+.shopping-cart{
+	float: right;
+	clear: both;
+	width: 270px;
 }
